@@ -1,9 +1,5 @@
-## About Me
-
 <h1 align="left">Hi 👋, I'm GennYoon</h1>
 <h3 align="left">A passionate frontend developer from Korea</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gennyoon&label=Profile%20views&color=0e75b6&style=flat" alt="gennyoon" /> </p>
 
 - 💬 Ask me about **react, nextjs, nestjs, terraform, aws**
 
