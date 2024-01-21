@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm GennYoon</h1>
-<h3 align="left">A passionate frontend developer from Korea</h3>
 
 - 💬 Ask me about **react, nextjs, nestjs, terraform, aws**
 
