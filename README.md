@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gennyoon&show_icons=true&locale=en" alt="gennyoon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
