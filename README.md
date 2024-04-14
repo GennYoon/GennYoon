@@ -4,8 +4,6 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-915.0%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -37,5 +35,5 @@ Mac                      7 hrs 18 mins       ███████████�
 ```
 
 
- Last Updated on 13/04/2024 18:33:02 UTC
+ Last Updated on 14/04/2024 21:07:55 UTC
 <!--END_SECTION:waka-->
