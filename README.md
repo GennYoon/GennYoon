@@ -4,17 +4,17 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-917.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-918.2%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                134 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-🌆 Daytime                176 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌃 Evening                265 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌙 Night                  128 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌞 Morning                146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌆 Daytime                200 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+🌃 Evening                288 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌙 Night                  130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 ```
 
 
@@ -38,5 +38,5 @@ Mac                      46 hrs 37 mins      ███████████�
 ```
 
 
- Last Updated on 24/04/2024 18:33:10 UTC
+ Last Updated on 25/04/2024 18:33:15 UTC
 <!--END_SECTION:waka-->
