@@ -4,10 +4,39 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-998.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                396 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌆 Daytime                588 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌃 Evening                365 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌙 Night                  144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+```
 
 
- Last Updated on 16/05/2024 18:34:50 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               40 hrs 13 mins      █████████████░░░░░░░░░░░░   53.69 % 
+JavaScript               23 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
+CSS                      3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JSON                     3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Lua                      1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+
+🔥 Editors: 
+Neovim                   74 hrs 55 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      74 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 17/05/2024 18:35:01 UTC
 <!--END_SECTION:waka-->
