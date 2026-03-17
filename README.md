@@ -6,28 +6,28 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                324 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-🌆 Daytime                774 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌃 Evening                1157 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌙 Night                  1167 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
+🌞 Morning                332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌆 Daytime                848 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+🌃 Evening                1233 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌙 Night                  1190 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   617 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Tuesday                  524 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 490 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Friday                   543 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Saturday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Sunday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Monday                   663 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Tuesday                  589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Wednesday                456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   565 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Saturday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Sunday                   336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 
 
@@ -47,5 +47,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/03/2026 18:49:28 UTC
+ Last Updated on 17/03/2026 11:04:51 UTC
 <!--END_SECTION:waka-->
