@@ -6,8 +6,51 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C920%20hrs%202%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.94%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 19:08:09 UTC
+```text
+🌞 Morning                261 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+🌆 Daytime                8484 commits        ██████████░░░░░░░░░░░░░░░   41.44 % 
+🌃 Evening                7044 commits        █████████░░░░░░░░░░░░░░░░   34.40 % 
+🌙 Night                  4685 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   5209 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Tuesday                  1206 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Wednesday                2864 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 2087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Friday                   1651 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Saturday                 6335 commits        ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Sunday                   1122 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               13 hrs 39 mins      ████████████████░░░░░░░░░   64.65 % 
+Markdown                 2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Rust                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+
+🔥 Editors: 
+Unknown Editor           19 hrs 18 mins      ███████████████████████░░   91.42 % 
+Neovim                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+
+💻 Operating System: 
+Mac                      21 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 13:35:43 UTC
 <!--END_SECTION:waka-->
