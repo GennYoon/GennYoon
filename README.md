@@ -10,6 +10,46 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.29%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 13/06/2026 18:57:18 UTC
+```text
+🌞 Morning                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌆 Daytime                633 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌃 Evening                942 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  1206 commits        ██████████░░░░░░░░░░░░░░░   38.70 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Wednesday                551 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Thursday                 447 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Friday                   529 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Sunday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               3 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.16 % 
+Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+SSH Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 19 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 14/06/2026 15:27:31 UTC
 <!--END_SECTION:waka-->
