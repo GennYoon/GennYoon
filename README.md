@@ -10,42 +10,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.29%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                633 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌃 Evening                946 commits         ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌙 Night                  1213 commits        ██████████░░░░░░░░░░░░░░░   38.79 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Tuesday                  332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Wednesday                553 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Thursday                 449 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Friday                   530 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Sunday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 19/06/2026 02:44:08 UTC
+ Last Updated on 19/06/2026 19:11:34 UTC
 <!--END_SECTION:waka-->
