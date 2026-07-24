@@ -6,14 +6,16 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C386%20hrs%2027%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                675 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌞 Morning                675 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 🌆 Daytime                1488 commits        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌃 Evening                1891 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌃 Evening                1892 commits        ████████░░░░░░░░░░░░░░░░░   32.78 % 
 🌙 Night                  1717 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -23,8 +25,8 @@ Monday                   486 commits         ██░░░░░░░░░�
 Tuesday                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 Wednesday                1357 commits        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
 Thursday                 367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Friday                   894 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 1663 commits        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Friday                   895 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Saturday                 1663 commits        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 Sunday                   672 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 
@@ -51,5 +53,5 @@ Mac                      20 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 24/07/2026 12:25:58 UTC
+ Last Updated on 24/07/2026 19:01:39 UTC
 <!--END_SECTION:waka-->
