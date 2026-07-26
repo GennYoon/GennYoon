@@ -16,7 +16,7 @@
 🌞 Morning                675 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 🌆 Daytime                1488 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 🌃 Evening                1893 commits        ████████░░░░░░░░░░░░░░░░░   32.78 % 
-🌙 Night                  1718 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+🌙 Night                  1719 commits        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -24,10 +24,10 @@
 Monday                   486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 Tuesday                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 Wednesday                1357 commits        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Thursday                 367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Thursday                 367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 Friday                   895 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Saturday                 1665 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Sunday                   672 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Saturday                 1665 commits        ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Sunday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 
@@ -37,21 +37,21 @@ Sunday                   672 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 33 mins       █████████████████░░░░░░░░   68.80 % 
-Markdown                 3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               4 hrs 45 mins       ███████████████░░░░░░░░░░   61.66 % 
+Markdown                 2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 14 mins      ████████████████████░░░░░   80.89 % 
-Codex CLI                2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Claude Code              5 hrs 17 mins       █████████████████░░░░░░░░   68.61 % 
+Codex CLI                2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Neovim                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      13 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 18:48:54 UTC
+ Last Updated on 26/07/2026 00:00:26 UTC
 <!--END_SECTION:waka-->
