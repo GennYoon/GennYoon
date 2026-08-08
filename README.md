@@ -6,8 +6,54 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C354%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-579%20hrs%2016%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.10%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 07/08/2026 18:48:28 UTC
+```text
+🌞 Morning                681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌆 Daytime                1515 commits        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌃 Evening                1907 commits        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌙 Night                  1780 commits        ████████░░░░░░░░░░░░░░░░░   30.26 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   515 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Tuesday                  338 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Wednesday                1415 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Thursday                 373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Friday                   898 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Saturday                 1668 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+Sunday                   676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 08/08/2026 08:08:01 UTC
 <!--END_SECTION:waka-->
