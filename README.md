@@ -17,13 +17,13 @@
 ```text
 🌞 Morning                651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 🌆 Daytime                1480 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌃 Evening                1874 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌙 Night                  1765 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                1874 commits        ████████░░░░░░░░░░░░░░░░░   32.47 % 
+🌙 Night                  1766 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Monday                   487 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 Tuesday                  329 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 Wednesday                1396 commits        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
 Thursday                 336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
@@ -39,44 +39,42 @@ Sunday                   674 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 34 mins             █████████████████░░░░░░░░   67.32 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 26 mins             ███████████████████░░░░░░   76.48 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Codex CLI                33 mins             ████████████████░░░░░░░░░   65.63 % 
-Neovim                   16 mins             ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Codex CLI                26 mins             ███████████████████░░░░░░   77.41 % 
+Neovim                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (100.0%)
+⏱ AI Coding Time: 34 mins (100.0%)
 
-✍️ 1,533 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 780 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,877,144 Input Tokens, 116,910 Output Tokens
+🔤 8,503,548 Input Tokens, 52,758 Output Tokens
 
-💵 $195.49 Estimated AI Cost This Week
+💵 $87.67 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 18 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-GPT                      1,533 lines         █████████████████████████   100.00 % 
-Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      780 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 761 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 272 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 18:37:49 UTC
+ Last Updated on 14/09/2026 11:23:42 UTC
 <!--END_SECTION:waka-->
