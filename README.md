@@ -18,16 +18,16 @@
 🌞 Morning                651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 🌆 Daytime                1480 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 🌃 Evening                1875 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌙 Night                  1766 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌙 Night                  1767 commits        ████████░░░░░░░░░░░░░░░░░   30.61 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   488 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Tuesday                  329 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Wednesday                1396 commits        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Tuesday                  330 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Wednesday                1396 commits        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
 Thursday                 336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Friday                   891 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Friday                   891 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 Saturday                 1658 commits        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
 Sunday                   674 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 ```
@@ -39,42 +39,21 @@ Sunday                   674 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 26 mins             ███████████████████░░░░░░   76.48 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex CLI                26 mins             ███████████████████░░░░░░   77.41 % 
-Neovim                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (100.0%)
-
-✍️ 780 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,503,548 Input Tokens, 52,758 Output Tokens
-
-💵 $87.67 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 13 AI Prompts
-
-GPT                      780 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 272 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 15:10:36 UTC
+ Last Updated on 14/09/2026 18:40:56 UTC
 <!--END_SECTION:waka-->
