@@ -6,9 +6,9 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gennyoon&" alt="gennyoon" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C357%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C361%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-582%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-586%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -17,15 +17,15 @@
 ```text
 🌞 Morning                651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 🌆 Daytime                1480 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-🌃 Evening                1878 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌙 Night                  1779 commits        ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌃 Evening                1878 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌙 Night                  1780 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 Tuesday                  334 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Wednesday                1399 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Wednesday                1400 commits        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
 Thursday                 338 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 Friday                   892 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 Saturday                 1659 commits        ███████░░░░░░░░░░░░░░░░░░   28.66 % 
@@ -39,41 +39,42 @@ Sunday                   676 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ███████████████████████░░   92.15 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               2 hrs 25 mins       █████████████░░░░░░░░░░░░   51.75 % 
+Markdown                 1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   32.61 % 
+SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Claude Code              1 hr 14 mins        █████████████████████████   100.00 % 
+Claude Code              4 hrs 39 mins       █████████████████████████   99.68 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 40 mins (100.0%)
 
-✍️ 265 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,258 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 105,638,618 Input Tokens, 139,059 Output Tokens
+🔤 532,727,366 Input Tokens, 507,407 Output Tokens
 
-💵 $212.67 Estimated AI Cost This Week
+💵 $1070.53 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
+🧠 17 AI Sessions, 47 AI Prompts
 
-Sonnet                   289 lines           █████████████████████████   100.00 % 
+Sonnet                   4,365 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 2,913 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 18:42:01 UTC
+ Last Updated on 23/09/2026 01:52:45 UTC
 <!--END_SECTION:waka-->
