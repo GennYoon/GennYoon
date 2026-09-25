@@ -15,21 +15,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌞 Morning                680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 🌆 Daytime                1478 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
 🌃 Evening                1929 commits        ████████░░░░░░░░░░░░░░░░░   32.85 % 
-🌙 Night                  1786 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌙 Night                  1786 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Tuesday                  355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Tuesday                  355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 Wednesday                1400 commits        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
 Thursday                 363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Friday                   916 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Friday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 Saturday                 1673 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Sunday                   688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Sunday                   688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 
 
@@ -39,43 +39,43 @@ Sunday                   688 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 hrs 37 mins       █████████████░░░░░░░░░░░░   52.23 % 
-Markdown                 3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown                 3 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.04 % 
+TypeScript               3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.19 % 
+SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 49 mins       █████████████████████████   99.70 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Claude Code              7 hrs 15 mins       █████████████████████████   99.64 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 17 mins (100.0%)
 
-✍️ 7,903 lines written by AI, 2 lines written by hand (99.97% AI-written)
+✍️ 5,259 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 974,559,080 Input Tokens, 1,073,991 Output Tokens
+🔤 852,218,216 Input Tokens, 840,096 Output Tokens
 
-💵 $2512.27 Estimated AI Cost This Week
+💵 $2256.65 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 86 AI Prompts
+🧠 23 AI Sessions, 77 AI Prompts
 
-Sonnet                   8,142 lines         █████████████████████████   100.00 % 
+Sonnet                   5,370 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 1,614 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 1,798 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 01:21:38 UTC
+ Last Updated on 25/09/2026 18:41:11 UTC
 <!--END_SECTION:waka-->
