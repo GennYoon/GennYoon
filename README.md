@@ -17,18 +17,18 @@
 ```text
 🌞 Morning                697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 🌆 Daytime                1490 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌃 Evening                1944 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌃 Evening                1945 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
 🌙 Night                  1807 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   517 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Monday                   518 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Tuesday                  355 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Wednesday                1400 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Wednesday                1400 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
 Thursday                 363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 Friday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 1675 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Saturday                 1675 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
 Sunday                   711 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 ```
 
@@ -39,42 +39,42 @@ Sunday                   711 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       █████████████░░░░░░░░░░░░   52.57 % 
-Markdown                 1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-SQL                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.79 % 
+TypeScript               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.93 % 
+SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 6 mins        █████████████████████████   99.49 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Claude Code              3 hrs 40 mins       █████████████████████████   99.59 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 8 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 41 mins (100.0%)
 
-✍️ 5,172 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 4,321 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 615,782,440 Input Tokens, 592,771 Output Tokens
+🔤 473,149,635 Input Tokens, 410,776 Output Tokens
 
-💵 $1237.49 Estimated AI Cost This Week
+💵 $950.60 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 49 AI Prompts
+🧠 17 AI Sessions, 36 AI Prompts
 
-Sonnet                   5,281 lines         █████████████████████████   100.00 % 
+Sonnet                   4,406 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,797 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 3,786 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 14:18:37 UTC
+ Last Updated on 28/09/2026 18:44:49 UTC
 <!--END_SECTION:waka-->
