@@ -17,18 +17,18 @@
 ```text
 🌞 Morning                697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 🌆 Daytime                1490 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌃 Evening                1945 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌙 Night                  1808 commits        ████████░░░░░░░░░░░░░░░░░   30.44 % 
+🌃 Evening                1946 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  1808 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   518 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Tuesday                  356 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Tuesday                  357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 Wednesday                1400 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
 Thursday                 363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 Friday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 1675 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Saturday                 1675 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 Sunday                   711 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 ```
 
@@ -39,42 +39,38 @@ Sunday                   711 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.79 % 
-TypeScript               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.93 % 
-SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript               11 mins             ███████████████████░░░░░░   77.68 % 
+Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 40 mins       █████████████████████████   99.59 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Claude Code              14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 14 mins (100.0%)
 
-✍️ 4,321 lines written by AI, 2 lines written by hand (99.95% AI-written)
+✍️ 328 lines written by AI, 2 lines written by hand (99.39% AI-written)
 
-🔤 473,149,635 Input Tokens, 410,776 Output Tokens
+🔤 46,060,887 Input Tokens, 42,428 Output Tokens
 
-💵 $950.60 Estimated AI Cost This Week
+💵 $170.13 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 36 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
-Sonnet                   4,406 lines         █████████████████████████   100.00 % 
+Sonnet                   582 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 3,786 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.39% of written lines came from AI
+📝 Concise Prompter — average 119 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 14:59:43 UTC
+ Last Updated on 29/09/2026 18:45:14 UTC
 <!--END_SECTION:waka-->
