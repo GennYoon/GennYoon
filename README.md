@@ -17,17 +17,17 @@
 ```text
 🌞 Morning                697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 🌆 Daytime                1490 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌃 Evening                1946 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌙 Night                  1808 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌃 Evening                1946 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌙 Night                  1809 commits        ████████░░░░░░░░░░░░░░░░░   30.44 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   518 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Tuesday                  357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Wednesday                1400 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Wednesday                1401 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
 Thursday                 363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Friday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Friday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 Saturday                 1675 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 Sunday                   711 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 ```
@@ -39,38 +39,21 @@ Sunday                   711 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               11 mins             ███████████████████░░░░░░   77.68 % 
-Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (100.0%)
-
-✍️ 328 lines written by AI, 2 lines written by hand (99.39% AI-written)
-
-🔤 46,060,887 Input Tokens, 42,428 Output Tokens
-
-💵 $170.13 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 1 AI Prompts
-
-Sonnet                   582 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/09/2026 18:45:14 UTC
+ Last Updated on 30/09/2026 18:45:01 UTC
 <!--END_SECTION:waka-->
