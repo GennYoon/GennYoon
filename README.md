@@ -15,9 +15,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌞 Morning                697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 🌆 Daytime                1492 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌃 Evening                1946 commits        ████████░░░░░░░░░░░░░░░░░   32.71 % 
+🌃 Evening                1947 commits        ████████░░░░░░░░░░░░░░░░░   32.72 % 
 🌙 Night                  1814 commits        ████████░░░░░░░░░░░░░░░░░   30.49 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -29,7 +29,7 @@ Wednesday                1401 commits        ██████░░░░░�
 Thursday                 366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 Friday                   919 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 Saturday                 1676 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Sunday                   712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 
 
@@ -39,40 +39,43 @@ Sunday                   712 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Text                     15 mins             █████████████░░░░░░░░░░░░   50.72 % 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Markdown                 40 mins             ███████████░░░░░░░░░░░░░░   45.07 % 
+SQL                      22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Text                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Claude Code              31 mins             █████████████████████████   100.00 % 
+Claude Code              1 hr 28 mins        ████████████████████████░   97.54 % 
+Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (100.0%)
+⏱ AI Coding Time: 1 hr 28 mins (97.54%)
 
-✍️ 2,296 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,369 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,964,310 Input Tokens, 81,523 Output Tokens
+🔤 50,431,017 Input Tokens, 165,342 Output Tokens
 
-💵 $137.46 Estimated AI Cost This Week
+💵 $190.05 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
-Opus                     2,296 lines         ██████████████████████░░░   89.58 % 
-Sonnet                   267 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Opus                     2,330 lines         █████████████████████████   98.35 % 
+Sonnet                   39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 48 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 11:20:57 UTC
+ Last Updated on 04/10/2026 19:40:51 UTC
 <!--END_SECTION:waka-->
