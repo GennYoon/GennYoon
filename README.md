@@ -10,26 +10,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-594%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.81%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.93%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌆 Daytime                814 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-🌃 Evening                1930 commits        █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌙 Night                  1749 commits        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌞 Morning                828 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+🌆 Daytime                888 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌃 Evening                2034 commits        █████████░░░░░░░░░░░░░░░░   36.63 % 
+🌙 Night                  1803 commits        ████████░░░░░░░░░░░░░░░░░   32.47 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1021 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Tuesday                  515 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Wednesday                649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Thursday                 431 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Friday                   1018 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Saturday                 911 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Sunday                   734 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   1035 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Tuesday                  537 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Wednesday                737 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 444 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Friday                   1053 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Saturday                 987 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Sunday                   760 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
@@ -39,21 +39,45 @@ Sunday                   734 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               6 hrs 11 mins       ███████████████░░░░░░░░░░   58.61 % 
+JSON                     3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              10 hrs 29 mins      █████████████████████████   99.21 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 hrs 34 mins (100.0%)
+
+✍️ 2,857 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 119,181,928 Input Tokens, 915,028 Output Tokens
+
+💵 $216.38 Estimated AI Cost This Week
+
+🧠 101 AI Sessions, 193 AI Prompts
+
+Sonnet                   2,859 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,790 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 18:44:10 UTC
+ Last Updated on 23/10/2026 18:45:09 UTC
 <!--END_SECTION:waka-->
